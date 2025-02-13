@@ -5,7 +5,7 @@ Formada em Design Gráfico, atuando em Suporte de TI e migrando para a área de 
 -  🌍 Sou de Brasília, Distrito Federal 
 -  📖Estudante de Engenharia de Software  
 -  🎯Atualmente focando meus estudos em desenvolver APIs em Java 
--  💻Quero me aperfeiçoar mais em JavaScript e React para front end 
+-  🌱Quero me aperfeiçoar mais em JavaScript e React para front end 
 -  🥘Amo cozinhar e assistir séries de comédia
   
 <div style="display: inline_block"><br>
