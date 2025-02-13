@@ -1,10 +1,12 @@
 ### Oi! Sou a Clara☺️
 
+Formada em Design Gráfico, atuando em Suporte de TI e migrando para a área de desenvolvimento onde tenho concentrado minha paixão por tecnologia.
+
 -  🌍 Sou de Brasília, Distrito Federal 
 -  📖Estudante de Engenharia de Software  
 -  🎯Atualmente focando meus estudos em desenvolver APIs em Java 
 -  💻Quero me aperfeiçoar mais em JavaScript e React para front end 
--  🥘Amo cozinhar, assistir séries de comédia e correr 🏃‍♀️
+-  🥘Amo cozinhar e assistir séries de comédia
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clara-silva-martins&layout=compact)
