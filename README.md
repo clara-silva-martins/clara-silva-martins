@@ -5,7 +5,6 @@
 -  🎯Atualmente focando meus estudos em desenvolver APIs em Java 
 -  💻Quero me aperfeiçoar mais em JavaScript e React para front end 
 -  🥘Amo cozinhar, assistir séries de comédia e correr 🏃‍♀️
--  
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clara-silva-martins&layout=compact)
