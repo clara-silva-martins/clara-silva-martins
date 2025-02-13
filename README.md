@@ -11,4 +11,4 @@
 *📬contato: clara.dsm@gmail.com 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clara-silva-martins)](https://github.com/clara-silva-martins/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clara-silva-martins&show_icons=true)
