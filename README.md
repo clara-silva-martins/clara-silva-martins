@@ -10,4 +10,4 @@
 
 *📬contato: clara.dsm@gmail.com 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clara-silva-martins)](https://github.com/clara-silva-martins/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/clara-silva-martins/github-readme-stats)
